@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  text-shadow: 5px 5px 1px yellow;
+  letter-spacing: 5px;
+}
+#intro{
+  text-align: center;
+}
+#differentPoint{
+  list-style: square;
+}
+body{
+  border: 2px dotted grey;
+}
+h3{
+  text-shadow: 4px 4px 4px blue;
+  letter-spacing: 0.1px
+}
+.chapter{
+  margin-bottom: 35px;
+  border-bottom: 2px solid grey;
+}
